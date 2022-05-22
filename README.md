@@ -25,6 +25,6 @@
 
 # Репозиторий
 > Приведена часть исходного кода, относящегося к интеграции с Tinkoff Open API 2.0
->  tinkoff - использованная SDK https://github.com/Tinkoff/invest-python
->  import.py - получение списка счетов, получение сделок
+* tinkoff - использованная SDK https://github.com/Tinkoff/invest-python
+* import.py - получение списка счетов, получение сделок
 
